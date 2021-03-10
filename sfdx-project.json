@@ -1,0 +1,21 @@
+{
+  "packageDirectories": [
+    {
+      "path": "sfdx-source/unpackaged",
+      "default": false
+    },
+    {
+      "path": "sfdx-source/untracked",
+      "default": false
+    },
+    {
+      "path": "sfdx-source/DxDemo",
+      "default": true,
+      "package": "DxDemo",
+      "versionName": "Ver 1.0"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "51.0"
+}
