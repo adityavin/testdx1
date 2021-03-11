@@ -1,5 +1,5 @@
-public with sharing class helloworld {
-    public String helloworld() {
+public with sharing class Helloworld {
+    public String hello() {
         return 'Hello World';
     }
 }
