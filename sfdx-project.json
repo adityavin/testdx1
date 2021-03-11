@@ -12,10 +12,14 @@
       "path": "sfdx-source/DxDemo",
       "default": true,
       "package": "DxDemo",
-      "versionName": "Ver 1.0"
+      "versionName": "Ver 1.0",
+      "versionNumber": "1.0.0.Next"
     }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "51.0"
+  "sourceApiVersion": "51.0",
+  "packageAliases": {
+    "DxDemo": ""
+  }
 }
